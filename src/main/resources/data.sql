@@ -1,0 +1,2 @@
+--insert into college.product_table (price , quantity , sku , product_title)
+--VALUES(29 , 100 , "monaco1232" , "Monaco Biscuit 2");
